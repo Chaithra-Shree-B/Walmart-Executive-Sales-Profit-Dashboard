@@ -1,6 +1,6 @@
 📊 Walmart Sales & Profit Dashboard (Power BI)
-📌 Project Overview
 
+📌 Project Overview
 This project presents an interactive Power BI dashboard built to analyze Walmart’s sales, profit, and customer data. It transforms raw transactional data into meaningful insights to support data-driven decision-making in the retail domain.
 
 🎯 Objectives
